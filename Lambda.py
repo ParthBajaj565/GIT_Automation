@@ -1,8 +1,8 @@
 fun = lambda x,y:x+y
 sun = lambda a,b:a-b
 
-print(fun(8,9))
-print(sun(8,8))
+print(fun(10,9))
+print(sun(15,8))
 
 
 q,w,e = 1,2,"Parth"
